@@ -1,15 +1,10 @@
-//
-//  LoginViewController.swift
-//  Instagram
-//
-//  Created by Taka on 2019/03/25.
-//  Copyright © 2019 Taka. All rights reserved.
-//
-
 import UIKit
+import Firebase
+import FirebaseAuth
 
 class LoginViewController: UIViewController {
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
